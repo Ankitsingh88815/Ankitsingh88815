@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Ai assistance](https://github.com/Ankitsingh88815/webproject/tree/main/AiAssistance)
 
-- 🌱 I’m currently learning **SpringBoot, Thymleaf , mysql**
+- 🌱 I’m currently learning **SpringBoot, Thymleaf , mysql , AWS cloud computing**
 
 - 👯 I’m looking to collaborate on **AI inreviewer**
 
