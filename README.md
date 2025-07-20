@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ankitsingh88815](https://github.com/Ankitsingh88815)
 
-- 💬 Ask me about **java , spring , backend**
+- 💬 Ask me about **java , spring , backend and AWS**
 
 - 📫 How to reach me **ankitsingh88815@gmail.com**
 
