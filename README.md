@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitsingh88815" alt="ankitsingh88815" /></a> </p>
 
-- 🔭 I’m currently working on [Ai assistance](https://github.com/Ankitsingh88815/webproject/tree/main/AiAssistance)
+- 🔭 I’m currently working on Samrt Contact manager
 
 - 🌱 I’m currently learning **SpringBoot, Thymleaf , mysql , AWS cloud computing**
 
