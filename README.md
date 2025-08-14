@@ -9,13 +9,9 @@
 
 - 🌱 I’m currently learning **SpringBoot, Thymleaf , mysql , AWS cloud computing**
 
-- 👯 I’m looking to collaborate on **AI inreviewer**
-
-- 🤝 I’m looking for help with **Ai intreviewer**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Ankitsingh88815](https://github.com/Ankitsingh88815)
 
-- 💬 Ask me about **java , spring , backend and AWS**
+- 💬 Ask me about **java , spring boot , backend, database and AWS**
 
 - 📫 How to reach me **ankitsingh88815@gmail.com**
 
