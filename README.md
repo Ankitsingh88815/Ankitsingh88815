@@ -3,8 +3,6 @@
 
 <p align="left" alt="ankitsingh88815">ankitsingh88815@gmail.com</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitsingh88815" alt="ankitsingh88815" /></a> </p>
-
 - 🔭 I’m currently working on Samrt Contact manager
 
 - 🌱 I’m currently learning **SpringBoot, Thymleaf , mysql , AWS cloud computing**
